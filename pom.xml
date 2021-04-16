@@ -65,6 +65,9 @@
                      <destFileName>webapp-runner.jar</destFileName>
                             </artifactItem>
                         </artifactItems>
+			    
+			     <fileName>hostel-management-systems</fileName>
+			    
                     </configuration>
                 </execution>
             </executions>
