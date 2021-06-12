@@ -1,5 +1,5 @@
-<%@page import="javax.sql.RowSet"%>
-<%@page import="com.sun.glass.ui.Window"%>
+<%@page import="javax.sql.RowSet.*"%>
+<%@page import="com.sun.glass.ui.Window.*"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
